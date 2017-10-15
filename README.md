@@ -1,6 +1,7 @@
 # Redux Counter Example
 
 redux counter example
+참고 : http://github.com/reactjs/
 
 ## Redux?
 redux란 App의 클라이언트쪽 state를 관리하기 위한 것이다.
